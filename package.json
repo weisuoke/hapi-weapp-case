@@ -1,0 +1,24 @@
+{
+  "name": "hapi-weapp-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weisuoke/hapi-weapp-case.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weisuoke/hapi-weapp-case/issues"
+  },
+  "homepage": "https://github.com/weisuoke/hapi-weapp-case#readme",
+  "dependencies": {
+    "env2": "^2.2.2",
+    "hapi": "^16.7.0"
+  }
+}
